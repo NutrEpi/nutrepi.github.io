@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54px"
+   height="54px"
+   viewBox="0 0 54 54"
+   version="1.1"
+   id="svg1637"
+   sodipodi:docname="logo-mobile.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata1643">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1641" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1799"
+     inkscape:window-height="953"
+     id="namedview1639"
+     showgrid="false"
+     inkscape:zoom="13.611111"
+     inkscape:cx="27"
+     inkscape:cy="29.629225"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text2208"
+     inkscape:document-rotation="0" />
+  <title
+     id="title1630">logo-mobile</title>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="logo-mobile">
+      <rect
+         id="Rectangle-6"
+         stroke="#e5261f"
+         stroke-width="4"
+         fill-rule="nonzero"
+         x="2"
+         y="2"
+         width="50"
+         height="50" />
+      <g
+         aria-label="NE"
+         transform="scale(0.85301094,1.1723179)"
+         id="text2208"
+         style="font-style:normal;font-weight:normal;font-size:34.1204px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.853011">
+        <path
+           d="m 30.803027,35.095306 h -6.16433 L 14.109355,18.068427 V 35.095306 H 8.2449116 V 10.288043 h 7.6471014 l 9.046571,14.21128 v -14.21128 h 5.864443 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.1204px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.853011"
+           id="path3356" />
+        <path
+           d="M 55.110479,35.095306 H 37.167281 V 10.288043 h 17.943198 v 4.798181 H 43.531535 v 4.281711 h 10.745926 v 4.798181 H 43.531535 v 6.131009 h 11.578944 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.1204px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.853011"
+           id="path3358" />
+      </g>
+    </g>
+  </g>
+</svg>
