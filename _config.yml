@@ -11,16 +11,18 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Powered by <a class="zerostatic" href="https://github.com/zerostaticthemes/jekyll-serif-theme">Jekyll Serif Theme</a> (<a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>)'
+  copyright_text: 'Powered by <a class="zerostatic" href="https://github.com/zerostaticthemes/jekyll-serif-theme">Jekyll Serif Theme</a> (<a class="zerostatic" href="https://github.com/JugglerX">© Robert Austin</a>)'
 
 seo:
   meta_og_title: "NutrEpiWeb"
   meta_og_type: "website"
   meta_og_url: "https://nutrepi.github.io/"
-  meta_og_description: "NutrEpiWeb is a hub website with the links for all the NutrEpi projects."
+  meta_og_description: "NutrEpiWeb is a portal website for linking all the NutrEpi project websites."
 
 collections:
   services:
+    output: true
+  workpackages:
     output: true
 
 sass:

@@ -2,6 +2,7 @@
   {
     "name": "Github",
     "link": "https://github.com/NutrEpi/nutrepi.github.io",
-    "image": "images/social/github.svg"
+    "image": "images/social/github.svg",
+    "copyright_text": "NutrEpiWeb, © 2021 Takaya Saito."
   },
 ]
