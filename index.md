@@ -10,3 +10,6 @@ intro_image_hide_on_mobile: true
 # NutrEpiWeb
 
 NutrEpiWeb is a portal website for linking all the NutrEpi project websites.
+
+
+It also provides short introductions for NutrEpi work packages.
