@@ -1,5 +1,4 @@
 baseurl: ''
-exclude: ['README.md']
 permalink: pretty
 title: 'NutrEpiWeb'
 
@@ -19,6 +18,8 @@ seo:
   meta_og_url: "https://nutrepi.github.io/"
   meta_og_description: "NutrEpiWeb is a portal website for linking all the NutrEpi project websites."
 
+url: "https://nutrepi.github.io" # the base hostname & protocol for your site
+
 collections:
   services:
     output: true
@@ -32,3 +33,36 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
+
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .travis.yml
+  - stackbit.yaml
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+  - /scripts
+  - /data
