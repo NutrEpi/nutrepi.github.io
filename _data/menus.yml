@@ -2,7 +2,7 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Workpackages"
+  - name: "Work packages"
     url: "/workpackages/"
     weight: 2
   - name: "About"
