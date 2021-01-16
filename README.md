@@ -8,6 +8,7 @@ The development and maintenance of this website is based on Jekyll - simple, blo
 - [GitHub Pages](https://pages.github.com/)
 - [Jekyll Serif Theme](https://github.com/zerostaticthemes/jekyll-serif-theme/) (Jekyll theme)
 - [Vector illustrations in Pixeltrue style](https://icons8.com/illustrations/style--pixeltrue) (Site images)
+- [Google Analytics](https://analytics.google.com/analytics/web/) (Website traffic report)
 
 ## Search engine indexing
 Our sitemap.xml is registered with search engines by using the following tools.
