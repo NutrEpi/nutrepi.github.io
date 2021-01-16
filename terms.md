@@ -4,12 +4,12 @@ layout: page
 title: "Terms and Privacy Policy"
 ---
 
-## Terms and Privacy Policy of individual NutrEpi project sites
+> ## Terms and Privacy Policy of individual NutrEpi project sites
 All NutrEpi project sites have their own Terms and Privacy Policy pages
 mainly because they use different third party web services.
-
-- [Terms and Privacy Policy - NutrEip WP1 Liver](/wp1liver/terms/)
-- [Terms and Privacy Policy - NutrEip WP1 Gonad]()
+>
+> - [Terms and Privacy Policy - NutrEip WP1 Liver](/wp1liver/terms/)
+> - [Terms and Privacy Policy - NutrEip WP1 Gonad]()
 
 ## Privacy Policy
 
