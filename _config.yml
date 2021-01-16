@@ -21,8 +21,6 @@ seo:
 url: "https://nutrepi.github.io" # the base hostname & protocol for your site
 
 collections:
-  services:
-    output: true
   workpackages:
     output: true
 
