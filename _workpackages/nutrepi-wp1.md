@@ -1,5 +1,5 @@
 ---
-title: "NutrEpi WP 1"
+title: "NutrEpi WP1"
 featured: true
 weight: 1
 layout: workpackage
@@ -18,7 +18,7 @@ Through the trial, triplicate groups - L1, L2, L3 - were fed with graded levels 
 - L2: 200% NP
 - L3: 400% NP
 
-## Project summary
+## Project websites
  - [NutrEpi WP1 Liver](https://nutrepi.github.io/wp1liver/)
  - [NutrEpi WP1 Gonad]()
 
@@ -29,5 +29,5 @@ Through the trial, triplicate groups - L1, L2, L3 - were fed with graded levels 
 > DOI: [10.1080/15592294.2020.1859867](https://doi.org/10.1080/15592294.2020.1859867)
 
 ## Other work packages
-<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp2/">NutrEpi WP 2</a>
-<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp3/">NutrEpi WP 3</a>
+<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp2/">WP2</a>
+<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp3/">WP3</a>
