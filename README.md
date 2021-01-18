@@ -1,5 +1,5 @@
 # NutrEpiWeb
-NutrEpiWeb is a portal website for linking all the NutrEpi project websites. It also provides short introductions for NutrEpi work packages.
+NutrEpiWeb is a portal website for linking all the NutrEpi project websites. We also provide short introductions for NutrEpi work packages.
 
 ![](assets/images/icon/link-solid_16x16.svg) [nutrepi.github.io](http://nutrepi.github.io)
 
