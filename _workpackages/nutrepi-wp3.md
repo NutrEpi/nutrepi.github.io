@@ -1,5 +1,5 @@
 ---
-title: "NutrEpi WP 3"
+title: "NutrEpi WP3"
 featured: true
 weight: 3
 layout: workpackage
@@ -9,7 +9,7 @@ Optimized levels of 1-C nutrients increase the robustness during smoltification 
 
 ## Objective
 
-Studies from both salmon and zebrafish have shown that the 1-C inclusion in the feed determines the growth as well as the overall 1-C nutrients and amino acid compositions in the body. In NutrEpi WP 3, we utilise 1-C supplements trough smoltification to analyse the effect of 1-C inclusions on gene expression and DNA methylation patterns.
+Studies from both salmon and zebrafish have shown that the 1-C inclusion in the feed determines the growth as well as the overall 1-C nutrients and amino acid compositions in the body. In NutrEpi WP3, we utilise 1-C supplements trough smoltification to analyse the effect of 1-C inclusions on gene expression and DNA methylation patterns.
 
 ## Experimental design
 Triplicate groups were fed with graded levels of 1-C nutrients trough smoltification.
@@ -30,5 +30,5 @@ Triplicate groups were fed with graded levels of 1-C nutrients trough smoltifica
 > DOI: [10.1111/anu.13058]( https://doi.org/10.1111/anu.13058).
 
 ## Other work packages
-<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp1/">NutrEpi WP 1</a>
-<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp2/">NutrEpi WP 2</a>
+<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp1/">WP1</a>
+<a class="button button-primary" href="{{site.baseurl}}/workpackages/nutrepi-wp2/">WP2</a>

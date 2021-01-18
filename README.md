@@ -1,6 +1,8 @@
 # NutrEpiWeb
 NutrEpiWeb is a portal website for linking all the NutrEpi project websites. It also provides short introductions for NutrEpi work packages.
 
+![](assets/images/icon/link-solid_16x16.svg) [nutrepi.github.io](http://nutrepi.github.io)
+
 ## Credits
 The development and maintenance of this website is based on Jekyll - simple, blog-aware, static site generator static site generator - and hosted on GitHub Pages. We also rely on multiple open source libraries and freely available web services.
 
