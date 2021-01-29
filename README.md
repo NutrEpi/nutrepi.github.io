@@ -11,6 +11,7 @@ The development and maintenance of this website is based on Jekyll - simple, blo
 - [Jekyll Serif Theme](https://github.com/zerostaticthemes/jekyll-serif-theme/) (Jekyll theme)
 - [Vector illustrations in Pixeltrue style](https://icons8.com/illustrations/style--pixeltrue) (Site images)
 - [Google Analytics](https://analytics.google.com/analytics/web/) (Website traffic report)
+- [CookieNotice](https://github.com/AOEpeople/cookie-notice/) (Cookie notice banner JS)
 
 ## Search engine indexing
 Our sitemap.xml is registered with search engines by using the following tools.
