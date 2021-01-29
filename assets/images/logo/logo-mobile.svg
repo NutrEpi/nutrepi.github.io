@@ -12,8 +12,11 @@
    viewBox="0 0 54 54"
    version="1.1"
    id="svg839"
-   sodipodi:docname="logo-mobile.svg"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   inkscape:export-filename="/Users/a21379/logo.png"
+   inkscape:export-xdpi="462.22223"
+   inkscape:export-ydpi="462.22223">
   <metadata
      id="metadata845">
     <rdf:RDF>
@@ -41,13 +44,13 @@
      inkscape:window-height="918"
      id="namedview841"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="17.642141"
+     inkscape:zoom="4"
+     inkscape:cx="-9.25"
      inkscape:cy="19.147564"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Group"
+     inkscape:current-layer="text853"
      inkscape:document-rotation="0" />
   <title
      id="title833">Group</title>
@@ -68,28 +71,24 @@
          height="54"
          rx="5.0625"
          style="stroke-width:1.6875" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.5001px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6875"
-         x="3.1456308"
-         y="28.660192"
-         id="text849"><tspan
-           sodipodi:role="line"
-           id="tspan855"
-           x="3.1456308"
-           y="28.660192"
-           style="stroke-width:1.6875">N</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.5001px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6875"
-         x="28.125002"
-         y="48.353153"
-         id="text853"><tspan
-           sodipodi:role="line"
-           id="tspan857"
-           x="28.125002"
-           y="48.353153"
-           style="stroke-width:1.6875">E</tspan></text>
+      <g
+         aria-label="N"
+         id="text849"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Hiragino Kaku Gothic StdN';-inkscape-font-specification:'Hiragino Kaku Gothic StdN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6875">
+        <path
+           d="M 14.478964,8.6335263 C 13.438964,7.0868596 12.852297,6.020193 12.585631,5.300193 H 6.7989641 c 0.16,1.2266666 0.2133334,2.4266666 0.2133334,3.9733332 V 23.300193 c 0,1.973333 -0.053333,3.146666 -0.2133334,4.186666 h 5.6799999 c -0.16,-1.146667 -0.213333,-2.32 -0.213333,-4.16 v -5.973333 c 0,-1.306667 -0.05333,-2.773333 -0.186667,-3.973333 0.746667,1.413333 1.2,2.213333 1.92,3.28 l 4.933333,7.44 c 0.906667,1.386666 1.52,2.373333 2,3.386666 h 5.84 c -0.133333,-1.12 -0.213333,-2.346666 -0.213333,-3.973333 V 9.3535262 c 0,-1.7333333 0.05333,-2.8533332 0.213333,-4.0533332 h -5.68 c 0.16,1.2266666 0.213333,2.2933333 0.213333,4.0533332 v 6.0799998 c 0,1.493333 0.05333,2.72 0.16,3.946667 -0.64,-1.173334 -1.146666,-2.026667 -1.92,-3.173334 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Hiragino Kaku Gothic StdN';-inkscape-font-specification:'Hiragino Kaku Gothic StdN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.6875"
+           id="path845" />
+      </g>
+      <g
+         aria-label="E"
+         id="text853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Hiragino Kaku Gothic StdN';-inkscape-font-specification:'Hiragino Kaku Gothic StdN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6875">
+        <path
+           d="m 47.398189,44.37982 c -1.146666,0.133333 -2.319999,0.186667 -4.346666,0.186667 h -6.88 v -4.48 h 5.76 c 1.84,0 2.746667,0.05333 4,0.186666 V 35.33982 c -1.6,0.16 -2.24,0.186667 -4,0.186667 h -5.76 v -3.92 h 6.933333 c 1.786667,0 2.746667,0.05333 3.973333,0.186667 v -4.986667 c -1.253333,0.133333 -2.159999,0.186667 -3.973333,0.186667 H 34.59819 c -2.08,0 -2.826667,-0.02667 -3.92,-0.08 0.16,1.306666 0.213333,2.24 0.213333,3.893333 v 14.56 c 0,1.84 -0.05333,2.826666 -0.213333,3.893333 1.146667,-0.05333 1.893333,-0.08 3.92,-0.08 h 8.4 c 2.293333,0 3.253333,0.05333 4.399999,0.186667 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Hiragino Kaku Gothic StdN';-inkscape-font-specification:'Hiragino Kaku Gothic StdN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.6875"
+           id="path848" />
+      </g>
     </g>
   </g>
 </svg>
