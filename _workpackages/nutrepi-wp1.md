@@ -20,7 +20,7 @@ Through the trial, triplicate groups - L1, L2, L3 - were fed with graded levels 
 
 ## Project websites
  - [NutrEpi WP1 Liver](https://nutrepi.github.io/wp1liver/)
- - [NutrEpi WP1 Gonad]()
+ - [NutrEpi WP1 Gonad](https://nutrepi.github.io/wp1gonad/)
 
 ## Publication
 > **Micronutrient supplementation affects transcriptional and epigenetic regulation of lipid metabolism in a dose-dependent manner**,
