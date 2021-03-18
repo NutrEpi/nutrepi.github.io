@@ -14,7 +14,7 @@ The main goal of NutrEpi WP 1 is to elucidate the effect of micronutrient (vitam
 A whole life cycle feeding trial (over 54 weeks) of Atlantic salmon (Salmo salar) was conducted under the EU funded [ARRAINA](https://www.arraina.eu/) (advanced research initiatives for nutrition and aquaculture) project ([Vera et al., 2020](https://doi.org/10.1016/j.aquaculture.2020.735551)).
 
 Through the trial, triplicate groups - L1, L2, L3 - were fed with graded levels of micronutrient supplements, formulated with nutrition package (NP).
-- L1: 100% NP (recommended composition of NP for Atlantic salmon)
+- L1: 100% NP (recommended composition of micronutrients for Atlantic salmon)
 - L2: 200% NP
 - L3: 400% NP
 
