@@ -2,7 +2,7 @@ baseurl: ''
 permalink: pretty
 title: 'NutrEpiWeb'
 
-google_analytics_id: ""
+google_analytics_id: "G-JSBMMBWJM2"
 homepage:
   show_call_box: true
 logo:
